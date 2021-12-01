@@ -8,5 +8,4 @@
     display: grid;
     grid-template-rows: 300px 70px 1fr;
     height: 150vh;
-    
 }
